@@ -31,14 +31,14 @@
 ## **Task 1: Create a New Pluggable Database**
 
 ### **PDB Created:**
-
+![Create PDB](screenshots/create_pdb.png)
 <aside>
 💡
 
 FI_PDB_28330
 
 </aside>
-
+![Show PDB](screenshots/show_pdb.png)
 ### Steps performed:
 
 1. Connected to SQL Plus as SYSDBA.
@@ -57,15 +57,15 @@ FI_PDB_28330
 </aside>
 
 > The PDB was successfully created and opened in READ WRITE mode.
-> 
+>
 
 > The user was created inside the PDB and will be used for future PL/SQL work.
 > 
-
+![Create User](screenshots/create_user.png)
 ## **Task 2: Create and Delete a Temporary PDB**
 
 ### **Temporary PDB Created:**
-
+![Temp PDB Create](screenshots/temp_pdb_create.png)
 <aside>
 💡
 
@@ -83,9 +83,9 @@ FI_TO_DELETE_PDB_28330
 
 > The temporary PDB was successfully created and completely removed from the system.
 > 
-
+![Temp PDB Delete](screenshots/temp_pdb_delete.png)
 ## **Task 3: Oracle Enterprise Manager (OEM)**
-
+![OEM Dashboard](screenshots/oem_dashboard.png)
 <aside>
 💡
 
