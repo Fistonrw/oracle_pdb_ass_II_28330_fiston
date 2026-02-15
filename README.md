@@ -38,7 +38,8 @@
 FI_PDB_28330
 
 </aside>
-![Show PDB](screenshots/show_pdb.png)
+
+![Create PDB](screenshots/show_pdb.png)
 ### Steps performed:
 
 1. Connected to SQL Plus as SYSDBA.
